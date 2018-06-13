@@ -164,8 +164,8 @@ import scipy as sp
 from scipy import interpolate
 from scipy.optimize import minimize
 from scipy.spatial import cKDTree
-import cv2
-__all__ += ['np','pd','plt','sp','interpolate','minimize','cKDTree','cv2']
+
+__all__ += ['np','pd','plt','sp','interpolate','minimize','cKDTree']
 
 
 
